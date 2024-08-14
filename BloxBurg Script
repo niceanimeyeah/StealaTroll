@@ -79,7 +79,7 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "Copy Key",
 	Callback = function()
-      		setclipboard("https://discord.com/invite/RXsYVWdQxa") --This Will Copy The Link Of The Key
+      		setclipboard("https://direct-link.net/1201838/bloxburg-script-key") --This Will Copy The Link Of The Key
   	end    
 }) 
     
