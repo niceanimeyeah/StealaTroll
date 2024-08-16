@@ -15,3 +15,9 @@ getgenv().ScriptKey = "3CKLJoyl6E9ahPL0l3LLz0QscNmhhp"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SurgeDid/Blockburg/main/loader.lua"))();
     print("Clicked")
 end)
+Section:NewButton("PizzaDelivery", "ButtonInfo", function()
+getgenv().ScriptJob = "PizzaDelivery" -- Job Autofarm
+getgenv().ScriptKey = "3CKLJoyl6E9ahPL0l3LLz0QscNmhhp"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SurgeDid/Blockburg/main/loader.lua"))();
+    print("Clicked")
+end)
